@@ -15,11 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from bookingapp.urls import bookingapp_url_patterns
+from bookingapp.urls import BookingApp_url_patterns
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('master/', admin.site.urls),
 ]
 
-urlpatterns += bookingapp_url_patterns
+urlpatterns += BookingApp_url_patterns
 

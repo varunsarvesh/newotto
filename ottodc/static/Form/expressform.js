@@ -361,5 +361,5 @@ function consolidate(){
 		}
 	}
 	local_store(consolidated_data);
-	window.location.href = "/normalform?run=restore";
+	window.location.href = "/NormalForm?run=restore";
 }
