@@ -14,11 +14,13 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.urls import path
-from bookingapp.views import ExpressOrderPage, NormalOrderPage, LoginPage, AdminPanel
+from bookingapp.views import OrderPage, LoginPage, AdminPanel, Master
 
 BookingApp_url_patterns = [
     path('', LoginPage.as_view()),
     path('admin/', AdminPanel.as_view()),
-    path('ExpressForm/', ExpressOrderPage.as_view()),
-    path('NormalForm/', NormalOrderPage.as_view()),
+    path('ExpressForm/', OrderPage.express),
+    path('NormalForm/', OrderPage.normal),
+    path('importdealers_form/', Master.dealer_import_form),
+    path('importdealers/', Master.dealer_import, name="importdealers"),
 ]

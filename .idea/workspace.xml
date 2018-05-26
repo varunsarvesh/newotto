@@ -3,14 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6e62107c-ae1c-4176-9145-4490adff6f9f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ottodc/bookingapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/templates/expressform.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/templates/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/templates/normalform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/templates/OrderForms/NormalForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/ottodc/bookingapp/templates/OrderForms/NormalForm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ottodc/bookingapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ottodc/bookingapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ottodc/bookingapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ottodc/ottodc/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ottodc/ottodc/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ottodc/static/Form/expressform.js" beforeDir="false" afterPath="$PROJECT_DIR$/ottodc/static/Form/expressform.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +15,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding>
+                <element signature="e#630#658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,19 +70,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ottodc/manage.py" />
-        <option value="$PROJECT_DIR$/ottodc/bookingapp/models.py" />
         <option value="$PROJECT_DIR$/ottodc/ottodc/settings.py" />
         <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/main.html" />
         <option value="$PROJECT_DIR$/ottodc/static/Form/duplicate_card.js" />
         <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/expressform.html" />
         <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/normalform.html" />
         <option value="$PROJECT_DIR$/ottodc/bookingapp/admin.py" />
-        <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/OrderForms/NormalForm.html" />
         <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/OrderForms/ExpressForm.html" />
         <option value="$PROJECT_DIR$/ottodc/static/Form/expressform.js" />
-        <option value="$PROJECT_DIR$/ottodc/bookingapp/urls.py" />
-        <option value="$PROJECT_DIR$/ottodc/bookingapp/views.py" />
         <option value="$PROJECT_DIR$/ottodc/ottodc/urls.py" />
+        <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/OrderForms/NormalForm.html" />
+        <option value="$PROJECT_DIR$/ottodc/bookingapp/models.py" />
+        <option value="$PROJECT_DIR$/ottodc/bookingapp/templates/Master/import_dealer.html" />
+        <option value="$PROJECT_DIR$/ottodc/bookingapp/urls.py" />
+        <option value="$PROJECT_DIR$/ottodc/bookingapp/functions.py" />
+        <option value="$PROJECT_DIR$/ottodc/bookingapp/views.py" />
       </list>
     </option>
   </component>
@@ -70,20 +113,14 @@
               <item name="ottodc2.0" type="b2602c69:ProjectViewProjectNode" />
               <item name="ottodc2.0" type="462c0819:PsiDirectoryNode" />
               <item name="ottodc" type="462c0819:PsiDirectoryNode" />
-              <item name="ottodc" type="462c0819:PsiDirectoryNode" />
+              <item name="bookingapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ottodc2.0" type="b2602c69:ProjectViewProjectNode" />
               <item name="ottodc2.0" type="462c0819:PsiDirectoryNode" />
               <item name="ottodc" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ottodc2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ottodc2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="ottodc" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="bookingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,6 +168,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171875" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -213,27 +251,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/view.html" />
-    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/normalform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/expressform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="151" selection-start-line="151" selection-end-line="151" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/main.html" />
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/normalform.html" />
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/expressform.html" />
     <entry file="file://$PROJECT_DIR$/ottodc/static/Form/duplicate_card.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -271,13 +291,6 @@
     <entry file="file://$PROJECT_DIR$/ottodc/static/Form/localstorage.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ottodc/static/Form/expressform.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -292,39 +305,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ottodc/ottodc/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/OrderForms/NormalForm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-602">
-          <caret line="69" column="84" lean-forward="true" selection-start-line="69" selection-start-column="84" selection-end-line="69" selection-end-column="84" />
+        <state relative-caret-position="295">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/templates/Master/import_dealer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
           <folding>
             <element signature="e#630#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ottodc/ottodc/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ottodc/bookingapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>

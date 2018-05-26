@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<form action="{% url 'importdealers' %}" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="excel">
+    <input type="submit" value="upload">
+</form>
+</body>
+</html>
